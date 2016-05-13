@@ -1,0 +1,6 @@
+en:
+  site_settings:
+    customheadericon_enabled: "Enable the custom header icon plugin"
+    customheadericon_icon_image_url: "Image url for the custom header icon (expects an image that will fit properly in 32x32)"
+    customheadericon_link_to_url: "Link url that the header icon will link to"
+    customheadericon_link_title: "Title that will be displayed on mouseover and as image alt text"

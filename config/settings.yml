@@ -1,0 +1,13 @@
+plugins:
+  customheadericon_enabled:
+      default: false
+      client: true
+  customheadericon_icon_image_url:
+      default: ""
+      client: true
+  customheadericon_link_to_url:
+      default: ""
+      client: true
+  customheadericon_link_title:
+      default: ""
+      client: true
